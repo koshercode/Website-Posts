@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "נוספו לאחרונה"
-subtitle = "אפשר לשנות את זה למשהו כמו המומלצים שלנו"
+title = "המומלצים שלנו"
+subtitle = "כאן יופיע רשימה של כל המתכנתים לפי סדר הדירוג שלהם"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
