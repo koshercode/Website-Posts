@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Recent Posts"
-subtitle = ""
+title = "נוספו לאחרונה"
+subtitle = "אפשר לשנות את זה למשהו כמו המומלצים שלנו"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -36,7 +36,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
