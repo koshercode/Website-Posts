@@ -3,7 +3,7 @@
 weight: "10000"
 title: "Nigun"
 subtitle: "מתכנת חדש"
-summary: "אני מתמחה בלערבב"
+summary: "אני מתמחה ב..."
 authors: []
 tags: ["מתכנת מתחיל","מרכזיות",ימות המשיח",PHP,GOLANG]
 categories: []
