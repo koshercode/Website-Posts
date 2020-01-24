@@ -11,6 +11,7 @@ date: 2020-01-24T08:28:04+02:00
 lastmod: 2020-01-24T08:28:04+02:00
 featured: false
 draft: false
+editable: true
 
 
 
