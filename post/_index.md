@@ -6,6 +6,7 @@ title: "כאן תוכלו למצוא את המתכנת המתאים לכם"
 #   2 = Compact
 #   3 = Card
 view: 3
+order = "desc"
 
 # Optional header image (relative to `static/img/` folder).
 header:
