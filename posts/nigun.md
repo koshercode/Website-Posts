@@ -2,10 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 weight: "10000"
 title: "Nigun"
-subtitle: ""
-summary: ""
+subtitle: "מתכנת חדש"
+summary: "אני מתמחה בלערבב"
 authors: []
-tags: []
+tags: ["מתכנת מתחיל","מרכזיות",ימות המשיח",PHP,GOLANG]
 categories: []
 date: 2020-01-24T08:28:04+02:00
 lastmod: 2020-01-24T08:28:04+02:00
@@ -21,3 +21,4 @@ draft: false
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+#אני מתכנת מתחיל
