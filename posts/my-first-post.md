@@ -1,5 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
+weight: "1"
 
 title: "My First Post"
 subtitle: ""
