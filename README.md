@@ -1,4 +1,5 @@
-html {    text-align: right;
- direction:rtl;
-}
+<div dir="rtl" text-align="right">
+
 # אפיון כללי
+
+</div>
